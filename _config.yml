@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
-title: Mark Henney
-description: My personal website
+title: "-- Mark Henney --"
+description: "Software Engineer and Technical Leader"
+
+github.is_project_page: false
