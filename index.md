@@ -15,8 +15,6 @@ I currently lead the Architecture Support Team which is responsible for the over
 
 I am also the technical lead of the Platform Development team responsible for implementation of shared infrastructure, services, libraries, tools and the implementation of development standards used by all developers throughout the organization.
 
-My roles have included being an individual contributor as a software engineer, a scrum master, a product owner, a technical lead and a software architect (at both a component level, and at the department level). I have lead multiple teams at a time, ranging in size from 3-18 developers, primarily as a technical lead, and also with several direct reports (both employees and remote contractors).
+My roles have included being an individual contributor as a software engineer, a scrum master, a product owner, a technical lead and a software architect (at both a component level, and at the department level). I have led multiple teams at a time, ranging in size from 3-18 developers, primarily as a technical lead, and also with several direct reports (both employees and remote contractors).
 
 Over the years, I have personally contributed to over 15 different applications, over 10 shared libraries, and many other artifacts used throughout the software development organization.
-
-Technologies primarily used include C#, Docker, Kubernetes, Ansible, RabbitMQ, SQL Server, Windows and Linux environments.
